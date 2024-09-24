@@ -1,11 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
-
-
-
-
+Name : Cynthia Mehul
+Roll no : 212223240020
+Date of experiment : 13.08.2024
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
@@ -77,26 +73,88 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
-
-
-
+## Addition of 8 bit ALP 
+```
+MOV AL,53H
+MOV BL,24H
+ADD AL,BL
+HLT
+```
 ## Output  
- 
-## Subtraction   of 8 bit numbers  ALP 
- 
-## Output  
-## Multiplication alp 
+![image](https://github.com/user-attachments/assets/4b60280b-bc07-4c4b-902c-40bbf5176e89)
+
+## Subtraction of 8 bit numbers  ALP 
+```
+MOV AL,53H
+MOV BL,24H
+SUB AL,BL
+HLT
+``` 
+## Output
+![image](https://github.com/user-attachments/assets/8a502d0a-416c-435a-ac57-68edc9f479b7)
+
+## Multiplication ALP
+```
+MOV AL,53H
+MOV BL,24H
+MUL AL,BL
+HLT
+```
  ## Output  
+![image](https://github.com/user-attachments/assets/c0f22d06-44fe-4da5-a9e2-2c1ea1728e2a)
 
-
-## Division alp 
-
+## Division ALP
+```
+MOV AL,53H
+MOV BL,24H
+DIV AL,BL
+HLT
+```
 ## Output  
+![image](https://github.com/user-attachments/assets/311d5837-d6de-45a0-8731-996ee5426aff)
 
+## Programs for arithmetic operations
+## Logical AND
+```
+MOV AL,53H
+MOV BL,24H
+AND AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/7cbc943a-39d9-4bfd-99a1-951ae25ceac8)
+
+## Logical OR
+```
+MOV AL,53H
+MOV BL,24H
+OR AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/a4112932-17c2-4bfd-9103-bb17d77b6df5)
+
+## Logical NOT 
+```
+MOV AL,53H
+NOT AL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/5ce9b2aa-9cc3-4641-a3d0-a02636aefca0)
+
+## Logical XOR
+```
+MOV AL,53H
+MOV BL,24H
+XOR AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/25806f01-f75b-4faf-8cc9-0680ec6a8e13)
 
 ## Result :
- 
+Hence, ALP on fundamental arithmetics and logical operations are written and executed.
 
 
 
