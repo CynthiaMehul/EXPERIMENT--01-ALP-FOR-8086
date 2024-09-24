@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : Cynthia Mehul
+
 Roll no : 212223240020
+
 Date of experiment : 13.08.2024
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
