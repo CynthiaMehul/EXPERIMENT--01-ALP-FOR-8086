@@ -115,7 +115,7 @@ HLT
 ## Output  
 ![image](https://github.com/user-attachments/assets/311d5837-d6de-45a0-8731-996ee5426aff)
 
-## Programs for arithmetic operations
+## Programs for logical operations
 ## Logical AND
 ```
 MOV AL,53H
