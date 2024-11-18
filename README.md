@@ -1,9 +1,4 @@
 # EXPERIMENT 01 ARITHMETIC OPERATION AND LOGICAL
-Name : Cynthia Mehul
-
-Roll no : 212223240020
-
-Date of experiment : 13.08.2024
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
